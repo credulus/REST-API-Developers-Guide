@@ -7,4 +7,4 @@ A REST resource is an abstraction of a piece of information, such as a single da
 information. Each resource in the REST API is identified by a named URI, and is accessed using standard HTTP methods (HEAD,
 GET, POST, PATCH, DELETE). The REST API is based on the usage of resources, their URIs, and the links between them.
 
-# Important characteristics of the Force.com REST API resources and architecture
+# Important characteristics of the REST API resources and architecture
